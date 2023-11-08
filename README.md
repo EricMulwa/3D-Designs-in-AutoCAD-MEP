@@ -8,13 +8,13 @@ Welcome to the 3D design models repository created by **Eric Mulwa BSc Eng**. In
 
 This repository includes the following 3D design models:
 
-1. **Pinion Gear**: [View Model](Pinion_Gear_[2].dwg)
-2. **Rack and CoilHolder**: [View Model](Rack_CoilHolder_[2].dwg)
-3. **Gear Shaft** : [View Model](Gear_Shaft.dwg)
-4. **Solar Pad**: [View Model](Solar_Pad.dwg)
-5. **Solar Pad Shaft**: [View Model](Solar_Pad_Shaft.dwg)
-6. **Solar Base Pad**: [View Model](Solar_Base_Pad.dwg)
-7. **Solar Base Shaft**: [View Model](Solar_Base_Shaft.dwg) 
+1. **Pinion Gear**: [View Model](https://github.com/EricMulwa/3D-Designs-in-AutoCAD-MEP/blob/main/Pinion%20Gear%20%5B2%5D.dwg)
+2. **Rack and CoilHolder**: [View Model](https://github.com/EricMulwa/3D-Designs-in-AutoCAD-MEP/blob/main/Rack%20and%20CoilHolder%20%5B2%5D.dwg)
+3. **Gear Shaft** : [View Model](https://github.com/EricMulwa/3D-Designs-in-AutoCAD-MEP/blob/main/Gear%20Shaft.dwg)
+4. **Solar Pad**: [View Model](https://github.com/EricMulwa/3D-Designs-in-AutoCAD-MEP/blob/main/Solar%20Base%20Pad.dwg)
+5. **Solar Pad Shaft**: [View Model](https://github.com/EricMulwa/3D-Designs-in-AutoCAD-MEP/blob/main/Solar%20Pad%20Shaft.dwg)
+6. **Solar Base Pad**: [View Model](https://github.com/EricMulwa/3D-Designs-in-AutoCAD-MEP/blob/main/Solar%20Base%20Shaft.dwg)
+7. **Solar Base Shaft**: [View Model](https://github.com/EricMulwa/3D-Designs-in-AutoCAD-MEP/blob/main/Solar_Pad.dwg) 
 
 ## Author
 
